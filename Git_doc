@@ -10,4 +10,9 @@ HEAD : HEAD is a pointer, which always points to the latest commit in the branch
 Revision : Revision represents the version of the source code. Revisions in Git are represented by commits.
 URL : URL represents the location of the Git repository. Git URL is stored in config file.
 
+<<<<<<< HEAD
 From Second User : REL18-38-1
+=======
+
+From Suer 1 : REL18-38-1
+>>>>>>> c6db18b42f77f0035c96df628e38a2398412fc5b
