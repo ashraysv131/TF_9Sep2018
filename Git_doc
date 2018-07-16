@@ -9,3 +9,6 @@ Push : Push operation copies changes from a local repository instance to a remot
 HEAD : HEAD is a pointer, which always points to the latest commit in the branch. Whenever you make a commit, HEAD is updated with the latest commit.
 Revision : Revision represents the version of the source code. Revisions in Git are represented by commits.
 URL : URL represents the location of the Git repository. Git URL is stored in config file.
+
+
+From Suer 1 : REL18-38-1
